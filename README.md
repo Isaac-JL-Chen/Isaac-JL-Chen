@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 <!-- 
 ![Jianlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=radical)
  -->
