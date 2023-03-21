@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=radical" />
+<!-- 
 ![Jianlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=radical)
-
-![Jianlin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=gotham)
-
-![Jianlin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-JL-Chen&layout=compact&hide_border=true&langs_count=10)
+ -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=gotham" />
+<!--  
+![Jianlin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Isaac-JL-Chen&show_icons=true&count_private=true&theme=gotham) -->
 
 <!--
 **Isaac-JL-Chen/Isaac-JL-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
